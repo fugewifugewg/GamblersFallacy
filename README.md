@@ -6,7 +6,7 @@ Theese are the mods i've made with jokerforge
 
 GAMBLER'S FALLACY
 
-Gambler's Fallacy is a mod meant to provide dynamic, interesting jokers without them being too unbalanced. I took a lot of game design inspiration form FTL's "Chain Vulcan". This mod has like 5 "Chain Vulcans" lmao
+Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without them being too unbalanced. I took a lot of game design inspiration from FTL's "Chain Vulcan". This mod has like 5 "Chain Vulcans" lmao
 
 
 
