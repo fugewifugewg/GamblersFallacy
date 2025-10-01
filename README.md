@@ -12,7 +12,7 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without 
 
     FEATURING:
 
-    Joker:  "Overkill" Doubles score and payout every ante! can you keep up?
+    Joker:  "Overkill" Doubles Blind and payout every ante! can you keep up?
 
     Joker:  "Gambler's Particle Accellerator": Any sucessfull roll makes it more unlikely to fail,
             but never impossible! how high can you build the improbability drive?
