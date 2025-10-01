@@ -4,53 +4,53 @@ Theese are the mods i've made with jokerforge
 
 
 
-GAMBLER'S FALLACY
+    GAMBLER'S FALLACY
 
-    Gambler's Fallacy is a mod meant to provide dynamic, interesting jokers without them being too unbalanced. I took a lot of game design inspiration form FTL's "Chain Vulcan". This mod has like 5 "Chain Vulcans" lmao
-
-
-
-FEATURING:
-
-    Joker: "Overkill" Doubles score and payout every ante! can you keep up?
-
-    Joker: "Gambler's Particle Accellerator": Any sucessfull roll makes it more unlikely to fail, but never impossible! how high can you build the improbability drive?
-
-    Joker: "Clown Car": Get in.
-
-    Joker: "Plasma: The Joker": Needs no introduction. You know her, you love her!
-
-    Joker: "Echo" retrigger jokers based on how many times the hand has been played in a round. it get's crazy once when you get a chain started! vulcan.
-
-    Enhancement: "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
+Gambler's Fallacy is a mod meant to provide dynamic, interesting jokers without them being too unbalanced. I took a lot of game design inspiration form FTL's "Chain Vulcan". This mod has like 5 "Chain Vulcans" lmao
 
 
 
-MO' SODAS
+    FEATURING:
 
-  Mo' Sodas is a a mod that ads one Soda for every Skip Tag.
+Joker: "Overkill" Doubles score and payout every ante! can you keep up?
 
-  Inspired by 2012 era Minecraft mods akin to "Elemental Creepers" "All The TNT" "Mo' Creepers".
+Joker: "Gambler's Particle Accellerator": Any sucessfull roll makes it more unlikely to fail, but never impossible! how high can you build the improbability drive?
 
-  Any mod that add a bajillion jreepers of every variety, you know the ones
+Joker: "Clown Car": Get in.
 
-  Now YOU can experience the 2012 minecraft modding scene... IN BALATRO!
+Joker: "Plasma: The Joker": Needs no introduction. You know her, you love her!
 
-  The Sodas are balanced so they do not invade the shop pool too much
+Joker: "Echo" retrigger jokers based on how many times the hand has been played in a round. it get's crazy once when you get a chain started! vulcan.
+
+Enhancement: "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
 
 
 
-FEATURING:
+    MO' SODAS
 
-  Joker: "Six-Pack": Sell to fill your joker slot with Sodas!
+Mo' Sodas is a a mod that ads one Soda for every Skip Tag.
 
-  Joker: "Big Cola": A family-size cola! For you.
+Inspired by 2012 era Minecraft mods akin to "Elemental Creepers" "All The TNT" "Mo' Creepers".
 
-  Joker: "Unlabeled Beverage": I don't actually know what this one does...
+Any mod that add a bajillion jreepers of every variety, you know the ones
 
-  Joker: "Soda Maker": Make Your Own Soda Scrub
+Now YOU can experience the 2012 minecraft modding scene... IN BALATRO!
 
-  Joker: "Drink Five Hour Energy Drink Five Hour Energy Drink Five hou": It's not a drink, it's more like a drink
+The Sodas are balanced so they do not invade the shop pool too much
+
+
+
+    FEATURING:
+
+Joker: "Six-Pack": Sell to fill your joker slot with Sodas!
+
+Joker: "Big Cola": A family-size cola! For you.
+
+Joker: "Unlabeled Beverage": I don't actually know what this one does...
+
+Joker: "Soda Maker": Make Your Own Soda Scrub
+
+Joker: "Drink Five Hour Energy Drink Five Hour Energy Drink Five hou": It's not a drink, it's more like a drink
 
 
 
