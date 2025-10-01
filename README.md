@@ -49,7 +49,7 @@ The Sodas are balanced so they do not invade the shop pool too much
 
     FEATURING:
 
-    Joker:  "Six-Pack": Sell to fill your joker slot with Sodas!
+    Joker:  "Six-Pack": Sell to fill your joker slots with Sodas!
 
     Joker:  "Big Cola": A family-size cola! For you.
 
