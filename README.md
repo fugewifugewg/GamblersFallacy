@@ -35,7 +35,7 @@ MO' SODAS
 
 <img width="870" height="773" alt="Screenshot 2025-10-01 030736" src="https://github.com/user-attachments/assets/14c85d5d-ca1e-429a-9b85-f68551f296f7" />
 
-Mo' Sodas is a a mod that adds 30 Colas, one Soda for every Skip Tag, +more!
+Mo' Sodas is a a mod that adds 30 Sodas, one for every Skip Tag, +more!
 
 Inspired by 2012 era Minecraft mods akin to "Elemental Creepers" "All The TNT" "Mo' Creepers".
 
