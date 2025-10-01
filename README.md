@@ -15,7 +15,7 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without 
 
     FEATURING:
 
-    Joker:  "Overkill" Doubles Blind and payout every ante! can you keep up?
+    Joker:  "Overkill" Doubles Blind and payout for every ante! can you keep up?
 
     Joker:  "Gambler's Particle Accellerator": Any sucessfull roll makes it more unlikely to fail,
             but never impossible! how high can you build the improbability drive?
@@ -24,7 +24,7 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without 
 
     Joker:  "Plasma The Joker": Needs no introduction. You know her, you love her!
 
-    Joker:  "Echo" retrigger jokers based on how many times the hand has been played in a round.
+    Joker:  "Echo" retrigger cards based on how many times the hand has been played in a round.
             it gets crazy once when you get a chain started! vulcan.
 
     Enhancement:  "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
