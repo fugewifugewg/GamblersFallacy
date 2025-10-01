@@ -24,7 +24,8 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without 
     Joker:  "Echo" retrigger jokers based on how many times the hand has been played in a round.
             it get's crazy once when you get a chain started! vulcan.
 
-    Enhancement:  "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
+    Enhancement:  "Adaptive Card": Rerolls suit and<img width="861" height="677" alt="Screenshot 2025-10-01 032007" src="https://github.com/user-attachments/assets/d345f7ba-c4ca-433d-b75e-df636c122c44" />
+ rank on discard. Comes off easy
 
 
 
