@@ -57,5 +57,3 @@ Joker: "Drink Five Hour Energy Drink Five Hour Energy Drink Five hou": It's not 
 Any feedback on the mods is greatly aprecciated.
 
 If you are experiencing issues or jank please make a bug report. i may not fix it however as i do not know how to code :p 
-
-Thank you very much-a for to playing my game
