@@ -1,5 +1,6 @@
 currently known bugs / jank:
     the Six pack currently does not fill its OWN joker slot with a random soda when sold. this bug is circumvented by always making the Six-Pack appear negative. need a better solution
+    "+1 free" has artifacts of an earlier iteration of the joker. it does not need to be rare and in the shop pool in its current state.
 
 Graphics:
     The clown car is a placeholder. it needs to look like a tiny clown car bulging full of jimbos
