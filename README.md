@@ -15,14 +15,14 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting jokers without 
     Joker: "Overkill" Doubles score and payout every ante! can you keep up?
 
     Joker: "Gambler's Particle Accellerator": Any sucessfull roll makes it more unlikely to fail,
-    but never impossible! how high can you build the improbability drive?
+            but never impossible! how high can you build the improbability drive?
 
     Joker: "Clown Car": Get in.
 
     Joker: "Plasma: The Joker": Needs no introduction. You know her, you love her!
 
     Joker: "Echo" retrigger jokers based on how many times the hand has been played in a round.
-    it get's crazy once when you get a chain started! vulcan.
+            it get's crazy once when you get a chain started! vulcan.
 
     Enhancement: "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
 
@@ -53,7 +53,7 @@ The Sodas are balanced so they do not invade the shop pool too much
     Joker: "Soda Maker": Make Your Own Soda Scrub
 
     Joker: "Drink Five Hour Energy Drink Five Hour Energy Drink Five hou":
-    It's not a drink, it's more like a drink
+            It's not a drink, it's more like a drink
 
 Thank you very much-a for to playing my game
 
