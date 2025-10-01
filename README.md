@@ -34,7 +34,7 @@ Mo' Sodas is a a mod that ads one Soda for every Skip Tag.
 
 Inspired by 2012 era Minecraft mods akin to "Elemental Creepers" "All The TNT" "Mo' Creepers".
 
-Any mod that add a bajillion jreepers of every variety, you know the ones
+Any mod that add a bajillion creepers of every variety, you know the ones
 
 Now YOU can experience the 2012 minecraft modding scene... IN BALATRO!
 
