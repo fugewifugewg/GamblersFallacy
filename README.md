@@ -4,7 +4,7 @@ Theese are the mods i've made with jokerforge
 
 
 
-    GAMBLER'S FALLACY
+GAMBLER'S FALLACY
 
 Gambler's Fallacy is a mod meant to provide dynamic, interesting jokers without them being too unbalanced. I took a lot of game design inspiration form FTL's "Chain Vulcan". This mod has like 5 "Chain Vulcans" lmao
 
@@ -12,21 +12,21 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting jokers without 
 
     FEATURING:
 
-Joker: "Overkill" Doubles score and payout every ante! can you keep up?
+    Joker: "Overkill" Doubles score and payout every ante! can you keep up?
 
-Joker: "Gambler's Particle Accellerator": Any sucessfull roll makes it more unlikely to fail, but never impossible! how high can you build the improbability drive?
+    Joker: "Gambler's Particle Accellerator": Any sucessfull roll makes it more unlikely to fail, but never impossible! how high can you build the improbability drive?
 
-Joker: "Clown Car": Get in.
+    Joker: "Clown Car": Get in.
 
-Joker: "Plasma: The Joker": Needs no introduction. You know her, you love her!
+    Joker: "Plasma: The Joker": Needs no introduction. You know her, you love her!
 
-Joker: "Echo" retrigger jokers based on how many times the hand has been played in a round. it get's crazy once when you get a chain started! vulcan.
+    Joker: "Echo" retrigger jokers based on how many times the hand has been played in a round. it get's crazy once when you get a chain started! vulcan.
 
-Enhancement: "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
+    Enhancement: "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
 
 
 
-    MO' SODAS
+MO' SODAS
 
 Mo' Sodas is a a mod that ads one Soda for every Skip Tag.
 
@@ -42,17 +42,17 @@ The Sodas are balanced so they do not invade the shop pool too much
 
     FEATURING:
 
-Joker: "Six-Pack": Sell to fill your joker slot with Sodas!
+    Joker: "Six-Pack": Sell to fill your joker slot with Sodas!
 
-Joker: "Big Cola": A family-size cola! For you.
+    Joker: "Big Cola": A family-size cola! For you.
 
-Joker: "Unlabeled Beverage": I don't actually know what this one does...
+    Joker: "Unlabeled Beverage": I don't actually know what this one does...
 
-Joker: "Soda Maker": Make Your Own Soda Scrub
+    Joker: "Soda Maker": Make Your Own Soda Scrub
 
-Joker: "Drink Five Hour Energy Drink Five Hour Energy Drink Five hou": It's not a drink, it's more like a drink
+    Joker: "Drink Five Hour Energy Drink Five Hour Energy Drink Five hou": It's not a drink, it's more like a drink
 
-    Thank you very much-a for to playing my game
+Thank you very much-a for to playing my game
 
 Any feedback on the mods is greatly aprecciated.
 
