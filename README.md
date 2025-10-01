@@ -3,9 +3,12 @@ Theese are the mods i've made with jokerforge
 .jokerforge files can be opened and edited in using jokerforge: https://jokerforge.jaydchw.com/
 
 
+
 GAMBLER'S FALLACY
 
 Gambler's Fallacy is a mod meant to provide dynamic, interesting jokers without them being too unbalanced. I took a lot of game design inspiration form FTL's "Chain Vulcan". This mod has like 5 "Chain Vulcans" lmao
+
+
 
 FEATURING:
 
@@ -22,6 +25,7 @@ Joker: "Echo" retrigger jokers based on how many times the hand has been played 
 Enhancement: "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
 
 
+
 MO' SODAS
 
 Mo' Sodas is a a mod that ads one Soda for every Skip Tag.
@@ -33,6 +37,8 @@ Any mod that add a bajillion jreepers of every variety, you know the ones
 Now YOU can experience the 2012 minecraft modding scene... IN BALATRO!
 
 The Sodas are balanced so they do not invade the shop pool too much
+
+
 
 FEATURING:
 
