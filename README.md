@@ -22,7 +22,7 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without 
 
     Joker:  "Clown Car": Get in.
 
-    Joker:  "Plasma: The Joker": Needs no introduction. You know her, you love her!
+    Joker:  "Plasma The Joker": Needs no introduction. You know her, you love her!
 
     Joker:  "Echo" retrigger jokers based on how many times the hand has been played in a round.
             it get's crazy once when you get a chain started! vulcan.
