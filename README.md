@@ -4,7 +4,10 @@ Theese are the mods i've made with jokerforge
 
 
 
+
 GAMBLER'S FALLACY
+
+<img width="861" height="677" alt="image" src="https://github.com/user-attachments/assets/4370870d-32ae-4dbd-bd2d-702ce8b5660e" />
 
 Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without them being too unbalanced. I took a lot of game design inspiration from FTL's "Chain Vulcan". This mod has like 5 "Chain Vulcans" lmao
 
@@ -24,14 +27,15 @@ Gambler's Fallacy is a mod meant to provide dynamic, interesting Jokers without 
     Joker:  "Echo" retrigger jokers based on how many times the hand has been played in a round.
             it get's crazy once when you get a chain started! vulcan.
 
-    Enhancement:  "Adaptive Card": Rerolls suit and<img width="861" height="677" alt="Screenshot 2025-10-01 032007" src="https://github.com/user-attachments/assets/d345f7ba-c4ca-433d-b75e-df636c122c44" />
- rank on discard. Comes off easy
+    Enhancement:  "Adaptive Card": Rerolls suit and rank on discard. Comes off easy
 
 
 
 MO' SODAS
 
-Mo' Sodas is a a mod that ads one Soda for every Skip Tag.
+<img width="870" height="773" alt="Screenshot 2025-10-01 030736" src="https://github.com/user-attachments/assets/14c85d5d-ca1e-429a-9b85-f68551f296f7" />
+
+Mo' Sodas is a a mod that adds 30 Colas, one Soda for every Skip Tag, +more!
 
 Inspired by 2012 era Minecraft mods akin to "Elemental Creepers" "All The TNT" "Mo' Creepers".
 
